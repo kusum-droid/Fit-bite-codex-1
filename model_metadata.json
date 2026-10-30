@@ -1,0 +1,53 @@
+{
+  "project": "AI-Based Indian Food Recognition and Interactive Nutrition Estimator",
+  "created_utc": "2026-10-24T08:55:25.261530Z",
+  "dataset": {
+    "dataset_id": "bharat-raghunathan/indian-foods-dataset",
+    "checked_at_utc": "2026-10-24T08:45:20.807154Z",
+    "available": true,
+    "license": "cc0-1.0",
+    "last_modified": "2023-03-26 08:58:10+00:00"
+  },
+  "img_size": 224,
+  "num_classes": 15,
+  "split_sizes": {
+    "train": 2654,
+    "validation": 469,
+    "test": 961
+  },
+  "best_model": "mobilenetv2",
+  "models": {
+    "custom_cnn": {
+      "model": "custom_cnn",
+      "test_accuracy": 0.6097815036773682,
+      "test_loss": 1.1797223091125488,
+      "top3_accuracy": 0.8699271592091571,
+      "macro_f1": 0.6057306846199569,
+      "val_accuracy": 0.5948827266693115,
+      "val_loss": 1.2552976608276367,
+      "parameters": 1244783,
+      "file_size_mb": 15.09,
+      "ms_per_image": 7.6,
+      "train_minutes": 4.8,
+      "epochs_run": 30
+    },
+    "mobilenetv2": {
+      "model": "mobilenetv2",
+      "test_accuracy": 0.8949011564254761,
+      "test_loss": 0.3214896023273468,
+      "top3_accuracy": 0.9802289281997919,
+      "macro_f1": 0.8963554392290524,
+      "val_accuracy": 0.884861409664154,
+      "val_loss": 0.3600667417049408,
+      "parameters": 2277199,
+      "file_size_mb": 21.96,
+      "ms_per_image": 24.7,
+      "train_minutes": 1.9,
+      "epochs_run": 18
+    }
+  },
+  "tensorflow_version": "2.21.0",
+  "keras_version": "3.13.2",
+  "smoke_test": false,
+  "note": "Nutrition values in the app are estimates; the model only predicts the food category."
+}

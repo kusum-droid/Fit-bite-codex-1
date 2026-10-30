@@ -1,0 +1,21 @@
+class_name,display_name,category,serving_description,serving_grams,calories,protein_g,carbs_g,fat_g,fiber_g,sugar_g
+burger,Veg Burger,Fast Food,1 burger,150,350,12.0,40,16.0,3.0,6.0
+butter_naan,Butter Naan,Bread,1 piece,90,290,8.0,45,8.0,2.0,3.0
+chai,Masala Chai (with milk and sugar),Beverage,1 cup (150 ml),150,90,2.5,13,3.0,0.0,11.0
+chapati,Chapati / Roti,Bread,1 medium piece,40,104,3.0,18,2.5,3.0,0.5
+chole_bhature,Chole Bhature,Main Dish,1 plate (1 bhatura + chole),300,610,16.0,78,26.0,12.0,6.0
+dal_makhani,Dal Makhani,Main Dish,1 bowl,200,300,11.0,25,17.0,6.0,3.0
+dhokla,Dhokla,Snack,3 pieces,100,160,6.0,25,4.0,2.0,5.0
+fried_rice,Veg Fried Rice,Rice Dish,1 plate,200,330,7.0,50,11.0,2.0,2.0
+idli,Idli,South Indian,2 pieces,100,130,4.0,27,0.6,2.0,1.0
+jalebi,Jalebi,Dessert,2 pieces,60,270,2.0,45,9.0,0.5,32.0
+kaathi_rolls,Kathi Roll,Fast Food,1 roll,180,420,16.0,45,19.0,4.0,3.0
+kadai_paneer,Kadai Paneer,Main Dish,1 bowl,200,340,15.0,12,26.0,3.0,5.0
+kulfi,Kulfi,Dessert,1 piece,80,170,4.5,18,9.0,0.0,15.0
+masala_dosa,Masala Dosa,South Indian,1 dosa with potato filling,200,370,8.0,54,14.0,4.0,2.0
+momos,Momos (steamed),Snack,6 pieces,150,240,9.0,34,7.0,3.0,2.0
+paani_puri,Paani Puri,Snack,6 pieces,150,250,4.0,38,9.0,3.0,5.0
+pakode,Pakode / Pakora,Snack,5 pieces,100,320,8.0,28,20.0,4.0,2.0
+pav_bhaji,Pav Bhaji,Main Dish,1 plate (2 pav + bhaji),300,500,12.0,68,21.0,8.0,10.0
+pizza,Pizza,Fast Food,2 slices,200,540,22.0,64,22.0,3.0,6.0
+samosa,Samosa,Snack,1 piece,100,260,4.0,28,15.0,3.0,2.0
